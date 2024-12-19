@@ -1,0 +1,1 @@
+{"version":3,"file":"validateWebClientId.d.ts","sourceRoot":"","sources":["../../../../src/oneTap/validateWebClientId.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,WAAW,EAAE,MAAM,UAAU,CAAC;AAE5C,eAAO,MAAM,mBAAmB,WAAY;IAC1C,WAAW,CAAC,EAAE,WAAW,GAAG,SAAS,CAAC;CACvC,KAAG,IAcH,CAAC"}

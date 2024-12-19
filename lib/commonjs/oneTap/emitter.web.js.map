@@ -1,0 +1,1 @@
+{"version":3,"names":["_nanoevents","require","emitter","exports","createNanoEvents"],"sourceRoot":"../../../src","sources":["oneTap/emitter.web.ts"],"mappings":";;;;;;AAAA,IAAAA,WAAA,GAAAC,OAAA;AAEO,MAAMC,OAAO,GAAAC,OAAA,CAAAD,OAAA,GAAG,IAAAE,4BAAgB,EAAC,CAAC","ignoreList":[]}

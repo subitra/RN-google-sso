@@ -1,0 +1,1 @@
+{"version":3,"names":["TurboModuleRegistry","NativeModule","getEnforcing"],"sourceRoot":"../../../src","sources":["spec/NativeGoogleSignin.ts"],"mappings":"AACA,SAASA,mBAAmB,QAAQ,cAAc;AAmClD,OAAO,MAAMC,YAAY,GACvBD,mBAAmB,CAACE,YAAY,CAAO,gBAAgB,CAAC","ignoreList":[]}
