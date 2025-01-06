@@ -1,1 +1,0 @@
-{"version":3,"names":["codegenNativeComponent","excludedPlatforms"],"sourceRoot":"../../../src","sources":["spec/SignInButtonNativeComponent.ts"],"mappings":"AACA,OAAOA,sBAAsB,MAAM,yDAAyD;AAe5F,eAAeA,sBAAsB,CAAc,sBAAsB,EAAE;EACzE;EACAC,iBAAiB,EAAE,CAAC,OAAO;AAC7B,CAAC,CAAC","ignoreList":[]}
